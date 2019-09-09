@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/arihantdaga/Arduino.git"
+      "version": "https://github.com/arihantdaga/Arduino.git#961b558a91caf9589cdf0daa76a2aafd4a6ec568"
     },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
